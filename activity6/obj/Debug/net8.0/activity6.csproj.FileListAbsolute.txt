@@ -1,0 +1,14 @@
+C:\MyProjects\activity6\bin\Debug\net8.0\activity6.exe
+C:\MyProjects\activity6\bin\Debug\net8.0\activity6.deps.json
+C:\MyProjects\activity6\bin\Debug\net8.0\activity6.runtimeconfig.json
+C:\MyProjects\activity6\bin\Debug\net8.0\activity6.dll
+C:\MyProjects\activity6\bin\Debug\net8.0\activity6.pdb
+C:\MyProjects\activity6\obj\Debug\net8.0\activity6.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\activity6\obj\Debug\net8.0\activity6.AssemblyInfoInputs.cache
+C:\MyProjects\activity6\obj\Debug\net8.0\activity6.AssemblyInfo.cs
+C:\MyProjects\activity6\obj\Debug\net8.0\activity6.csproj.CoreCompileInputs.cache
+C:\MyProjects\activity6\obj\Debug\net8.0\activity6.dll
+C:\MyProjects\activity6\obj\Debug\net8.0\refint\activity6.dll
+C:\MyProjects\activity6\obj\Debug\net8.0\activity6.pdb
+C:\MyProjects\activity6\obj\Debug\net8.0\activity6.genruntimeconfig.cache
+C:\MyProjects\activity6\obj\Debug\net8.0\ref\activity6.dll
